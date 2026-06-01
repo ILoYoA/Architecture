@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "84jgzI2IhKjSc+XNhRlJO02RfIsxqVogVD+ISlAajrau2A70+Og3RL73YqgVgGip8OAHZYuPh89JKvJMYyo3lw==",
+  "success": true,
+  "projectFilePath": "/home/ser/architecture_DZ2/Homework2_Variant20/Homework2_Variant20.csproj",
+  "expectedPackageFiles": [
+    "/home/ser/.nuget/packages/microsoft.data.sqlite/10.0.8/microsoft.data.sqlite.10.0.8.nupkg.sha512",
+    "/home/ser/.nuget/packages/microsoft.data.sqlite.core/10.0.8/microsoft.data.sqlite.core.10.0.8.nupkg.sha512",
+    "/home/ser/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.11/sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/ser/.nuget/packages/sqlitepclraw.core/2.1.11/sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "/home/ser/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.11/sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/ser/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.11/sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "/home/ser/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
